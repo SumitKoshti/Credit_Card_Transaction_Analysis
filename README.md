@@ -6,7 +6,7 @@ See Dashboard: [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjo
 ![See Customer Report](CC_Customer_Report.png)
 
 
-🎯 Project Objective:
+🎯 Project Objective: 
 Developed a comprehensive credit card weekly dashboard to provide real-time insights into key performance metrics and trends, 
 empowering stakeholders to effectively monitor and analyze credit card operations.
 
