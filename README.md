@@ -3,6 +3,7 @@
 See Dashboard: [See Full Dashboard Here!](https://app.powerbi.com/view?r=eyJrIjoiMjdkN2YzZTEtYThkNy00Mjk5LWJhMTItNGNhOWEyNzYxZjM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ![See Transaction Report](CC_Transaction_Report.png)
+![See Customer Report](CC_Customer_Report.png)
 
 
 🎯 Project Objective:
